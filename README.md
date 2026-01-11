@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Alvesds&theme=catppuccin_latte&show_icons=true)
+![Diego-Alvesds github stats](https://github-readme-stats.vercel.app/api?username=Diego-Alvesds&show_icons=true&theme=radical)
 
 ---
 
