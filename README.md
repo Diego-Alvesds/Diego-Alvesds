@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![Diego-Alvesds github stats](https://github-readme-stats.vercel.app/api?username=Diego-Alvesds&show_icons=true&theme=radical)
+![Diego-Alvesds GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Alvesds&show_icons=true&theme=radical)
 
 ---
 
