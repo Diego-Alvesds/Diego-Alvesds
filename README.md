@@ -27,8 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![Diego-Alvesds GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Alvesds&show_icons=true&theme=radical)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Alvesds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🌎 Vamos nos conectar:
